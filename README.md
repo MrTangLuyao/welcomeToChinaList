@@ -4,4 +4,5 @@
 本规则由：https://github.com/GMOogway/shadowrocket-rules 规则修改而来
 
 ##使用教程：
-订阅URL规则来导入：https://raw.githubusercontent.com/MrTangLuyao/welcomeToChinaList/refs/heads/main/welcomeToChina.conf
+订阅URL规则来导入，建议导入轻量版：https://raw.githubusercontent.com/MrTangLuyao/welcomeToChinaList/refs/heads/main/welcomeToChinaListLite.conf
+也可以使用完整版：https://raw.githubusercontent.com/MrTangLuyao/welcomeToChinaList/refs/heads/main/welcomeToChina.conf
